@@ -4,7 +4,7 @@ My personal portfolio website, responsive for all devices, built using HTML, CSS
 
 ## Demo
 
-[](https://github.com/dimashidayat99/portfolio/blob/main/website-demo-image/DimasHidayat-PersonalPortfolio.gif)
+![](https://github.com/dimashidayat99/portfolio/blob/main/website-demo-image/DimasHidayat-PersonalPortfolio.gif)
 
 # Link
 
